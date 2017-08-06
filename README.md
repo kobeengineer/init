@@ -1,3 +1,5 @@
+![init-kobeengineer-cover](https://init.kobeengineer.io/images/fb.jpg)
+
 # init.KobeEngineer 純靠北工程師
 
 ## 發文方法
