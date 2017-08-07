@@ -9,7 +9,7 @@
 ## 發文方法
 發文請至 [https://init.kobeengineer.io/](https://init.kobeengineer.io/)
 
-本站發文需具備 [GitHub](https://github.com) 或  [Bitbucket](bitbucket.org) 帳號
+本站發文需具備 [GitHub](https://github.com) 或  [Bitbucket](https://bitbucket.org) 帳號
 
 且需符合相關認證條件，始可使用發文功能
 
