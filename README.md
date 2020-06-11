@@ -6,5 +6,3 @@
 目前您可以在以下平台上觀看發文：
 - [Official website](https://init.kobeengineer.io/feed/)
 - [Facebook](https://www.facebook.com/init.kobeengineer)
-- [Twitter](https://twitter.com/inikobeengineer)
-- [GitHub](https://github.com/kobeengineer/init)
